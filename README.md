@@ -1,3 +1,3 @@
 # Calculator
 
-[Calculator](https://KhomDV.github.io/Calculator/calculator)
+[Calculator](https://KhomDV.github.io/Calculator)
