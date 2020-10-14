@@ -78,7 +78,7 @@ class Calculator {
           computation = prev * current;
           computation = this.getResultCompute(computation, prev, current, this.operation);
           break
-        case 'Г·':
+        case '÷':
           computation = this.division(prev, current);
           break
         case '^':
